@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Skillfair</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+<header class="container">
+  <div class="row">
+    <h1 class="col-sm-4">Marieme's website</h1>
+    <nav class="col-sm-8 text-right">
+      <p>Home</p>
+      <p>Charts</p>
+      <p>Dashboard</p>
+      <p>Contents</p>
+    </nav>
+  </div>
+  </header>
+  
+  <section class="container">
+    <div class="row">
+      <figure class="col-sm-6">
+        <p>Real time price for NYC</p>
+    	</figure>
+    	<figure class="col-sm-6">
+     		 <p>Savings</p>
+    	</figure>
+    </div>
+    <div class="row">
+       <figure class="col-sm-6">
+         <p>Energy usage by hour</p>
+    	</figure>
+    	<figure class="col-sm-6">
+      	<p>Activity over last hour</p>
+   		 </figure>
+    </div>
+  </section>
+
+
+</body>
+</html>
